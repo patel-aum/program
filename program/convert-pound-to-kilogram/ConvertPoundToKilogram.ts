@@ -3,4 +3,3 @@ function poundToKilogram(pounds: Number): Number {
   return kilogram
 }
 let pounds = prompt("Enter weight in pounds:");
-console.log(poundToKilogram(pounds))
